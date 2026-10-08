@@ -146,13 +146,7 @@ Psalm 27:13`,
     textOnly:true,
     title:"",
     text:`Can you believe it? 
-    It’s been a year since 
-    I came into this beautiful world 
-    and since then momma and dada 
-    told me that you've been there 
-    since day one and as I celebrate 
-    this milestone, can you celebrate 
-    with us on Nov 14, 2026?`,
+    It’s been a year since I came into this beautiful world and since then momma and dada told me that you've been there since day one and as I celebrate this milestone, can you celebrate with us on Nov 14, 2026?`,
     button:"next"
 },
 
