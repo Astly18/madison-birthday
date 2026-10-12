@@ -54,7 +54,7 @@ GLOBAL
 ==========================================================*/
 
 const RSVP_API =
-"https://script.google.com/macros/s/AKfycbxdxFIhBVj555bs18fCuCnCTy2EApy4VsThXlZDXcDQF02jVjLKDnru755woPms5j6t9w/exec";
+"https://script.google.com/macros/s/AKfycby8nd-L98qqjnwYu6nA0m3dvEEvAiqiKW6YRy0QhZ90yVQmsvA8QDNYN179TouX8snW5Q/exec";
 
 let currentPage = 0;
 let typingTimer = null;
