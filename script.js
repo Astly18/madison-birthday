@@ -103,13 +103,7 @@ Psalm 27:13`,
 {
     gif:"Assets/gifs/loving.gif",
     title:"",
-    text:`After plenty of times that doctors, even OB-Gynes, 
-    convinced my parents to abort me due to my diagnosis, 
-    still my mom held on to the 
-    promise that God gave her the morning the result came 
-    out that God knows me even 
-    before He formed me 
-    in her womb (Jeremiah 1:5).`,
+    text:`Despite what the doctors and OB Gynes  have said, Mom and dada never gave up their hope on me. Mom and dad held onto the promise that God gave her the morning you were born. “Before I formed you in the womb, I knew you” Jeremiah 1:5`,
     button:"next"
 },
 
